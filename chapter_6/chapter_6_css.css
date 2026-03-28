@@ -1,0 +1,41 @@
+* {
+    box-sizing:border-box;
+    margin: 0;
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100;
+    background-color: azure;
+}
+
+.Petrol_calculator {
+    background-color: grey;
+    color: black;
+    border-radius: 12px;
+}
+
+.Petrol_calculator h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+input {
+    margin-bottom: 1.5rem;
+}
+
+div label {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+button {
+    margin-right: 1rem;
+}
+
+div p {
+    margin: 1rem;
+
+}
