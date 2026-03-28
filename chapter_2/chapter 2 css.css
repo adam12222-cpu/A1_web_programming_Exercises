@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #faf8f0;
+    color:#2c2b28;
+    line-height: 1.6;
+}
+
+.navbar {
+    background-color: #3a4a2e;
+    display: flex;
+    padding: 1rem;
+    position: sticky;
+    gap: 2rem;
+    justify-content: center;
+    top: 0;
+}
+
+.nav-link {
+    color: #faf8f0;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.Mogroft {
+    text-align: center;
+    padding: 4rem 2rem;
+    background-color: #6b8c5c;
+    color: #faf8f0;
+}
+
+.Mogroft h1 {
+    font-size: 3rem;
+    margin: o.5rem;
+}
+
+.Mogroft p {
+    font-size: 1.4rem;
+    margin-bottom: 1.5rem;
+}
+
+.button {
+    color: #faf8f0;
+    font-weight: 500;
+    background-color: #f4a261;
+    border-radius: 30px;
+}
+
+.button:hover {
+    background-color: #e08e3a;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.section {
+    margin-bottom: 2.5rem;
+
+}
+
+.section h2 {
+    color: #4a6738;
+    font-size: 1.5rem;
+    margin-bottom: 0.8;
+}
+
+.section p {
+    margin-bottom: 1rem;
+}
+
+footer {
+    text-align: center;
+    font-size: medium;
+    background-color: #e5dfd0;
+    color: #7a7362;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
