@@ -1,0 +1,12 @@
+body {
+    align-items:center;
+    display: flex;
+    justify-content: center ;
+    background-color: black;
+}
+
+body video {
+    height: 600;
+    width: 450;
+}
+
